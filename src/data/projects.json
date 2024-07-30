@@ -19,9 +19,9 @@
     "title": "Netflix Clone",
     "imageSrc": "projects/netflix.png",
     "description": "I developed a professional Netflix clone utilizing the TMDB API for real-time movie and TV show data. This project is entirely front-end, showcasing seamless integration without the need for a backend.",
-    "skills": ["React", "Firebase"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["React", "Tmdb","Axios"],
+    "demo": "https://github.com/muhdsahal/netflix_react.git",
+    "source": "https://github.com/muhdsahal/netflix_react.git"
   }
   ,
   {
@@ -29,8 +29,8 @@
     "imageSrc": "projects/fastapi.png",
     "description": "Implemented a FastAPI CRUD application using SQLite as the database and Uvicorn as the ASGI server. The project provides efficient and rapid CRUD operations with a lightweight, high-performance setup. This solution ensures robust data handling and swift API responses.",
     "skills": ["Fast API", "Uvicorn", "Sqlite"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://github.com/muhdsahal/FAST_API_CRUD_OPRATIONS.git",
+    "source": "https://github.com/muhdsahal/FAST_API_CRUD_OPRATIONS.git"
   }
   ,
   {
@@ -38,8 +38,8 @@
     "imageSrc": "projects/graphqllogo.jpeg",
     "description": "Developed a GraphQL CRUD application using Django and SQLite for the database. This project delivers efficient data operations with a flexible and intuitive query system. The integration ensures seamless data management and rapid API interactions.",
     "skills": ["GraphQL","Grapne","Django", "Sqlite"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://github.com/muhdsahal/Django-GraphQL-CRUD.git",
+    "source": "https://github.com/muhdsahal/Django-GraphQL-CRUD.git"
   }
   ,
   {
@@ -47,7 +47,7 @@
     "imageSrc": "projects/nodeprisma.png",
     "description": "Implemented a basic CRUD operation using Node.js and Prisma ORM with PostgreSQL. This project provides robust data handling and seamless database interactions. The setup ensures efficient and reliable CRUD functionalities.",
     "skills": ["Node JS", "Prisma", "PostgresSQL"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://github.com/muhdsahal/Node_with_Prisma.git",
+    "source": "https://github.com/muhdsahal/Node_with_Prisma.git"
   }
 ]
