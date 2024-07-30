@@ -1,0 +1,53 @@
+[
+  {
+    "title": "E-Commerce",
+    "imageSrc": "projects/aranoz.png",
+    "description": "Aranoz Furniture E-commerce is a dynamic platform for furniture enthusiasts, developed using Django, HTML, CSS, and Ajax. It features rich functionality with distinct administrator and user interfaces. The site offers a seamless shopping experience tailored to furniture.",
+    "skills": ["Django", "Postgres", "Html","Css","Javascript"],
+    "visit": "https://aranoz.molla.cloud",
+    "github": "https://github.com/muhdsahal/aranoz"
+  },
+  {
+    "title": "Profcio Services",
+    "imageSrc": "projects/profcio.png",
+    "description": "Proficio.molla.cloud connects users with professionals, using a Django backend with Redis, Celery, and Channels, and a React frontend with Material UI. Hosted on AWS and Vercel, it features booking, Stripe payments, absentee marking, and reviews.",
+    "skills": ["Django Rest", "Postgres", "React", "Celery","Websocket"],
+    "demo": "https://profcio.molla.cloud",
+    "source": "https://github.com/muhdsahal/profciofrontend"
+  },
+  {
+    "title": "Netflix Clone",
+    "imageSrc": "projects/netflix.png",
+    "description": "I developed a professional Netflix clone utilizing the TMDB API for real-time movie and TV show data. This project is entirely front-end, showcasing seamless integration without the need for a backend.",
+    "skills": ["React", "Firebase"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+  ,
+  {
+    "title": "Fast API CRUD",
+    "imageSrc": "projects/fastapi.png",
+    "description": "Implemented a FastAPI CRUD application using SQLite as the database and Uvicorn as the ASGI server. The project provides efficient and rapid CRUD operations with a lightweight, high-performance setup. This solution ensures robust data handling and swift API responses.",
+    "skills": ["Fast API", "Uvicorn", "Sqlite"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+  ,
+  {
+    "title": "GraphQL CRUD",
+    "imageSrc": "projects/graphqllogo.jpeg",
+    "description": "Developed a GraphQL CRUD application using Django and SQLite for the database. This project delivers efficient data operations with a flexible and intuitive query system. The integration ensures seamless data management and rapid API interactions.",
+    "skills": ["GraphQL","Grapne","Django", "Sqlite"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+  ,
+  {
+    "title": "Node JS + PostgresSQL",
+    "imageSrc": "projects/nodeprisma.png",
+    "description": "Implemented a basic CRUD operation using Node.js and Prisma ORM with PostgreSQL. This project provides robust data handling and seamless database interactions. The setup ensures efficient and reliable CRUD functionalities.",
+    "skills": ["Node JS", "Prisma", "PostgresSQL"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

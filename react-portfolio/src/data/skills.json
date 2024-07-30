@@ -1,0 +1,51 @@
+[
+  {
+    "title": "PYTHON",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "DJANGO",
+    "imageSrc": "skills/django.png"
+  },
+  {
+    "title": "REACT",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "POSTGRES",
+    "imageSrc": "skills/psql.png"
+  },
+  {
+    "title": "GRAPH QL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "GIT",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "POSTMAN",
+    "imageSrc": "skills/postman.png"
+  },
+  {
+    "title": "SWAGGER",
+    "imageSrc": "skills/swagger.png"
+  },
+  {
+    "title": "JUPYTER",
+    "imageSrc": "skills/jupyter.png"
+  },
+  {
+    "title": "PANDAS",
+    "imageSrc": "skills/pandas.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+
+]
